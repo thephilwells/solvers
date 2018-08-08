@@ -81850,8 +81850,6 @@ exports.dictionary = [
   'JINXING',
   'JIPIJAPA',
   'JIPIJAPAS',
-  'JISM',
-  'JISMS',
   'JITNEY',
   'JITNEYS',
   'JITTER',

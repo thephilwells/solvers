@@ -2,10 +2,10 @@
 
 const dictionary = require('./dictionary')
 
-let upLetters = ['U', 'N', 'S']
-let rightLetters = ['F', 'O', 'G']
-let downLetters = ['H', 'V', 'I',]
-let leftLetters = ['A', 'T', 'R',]
+let upLetters = ['Q', 'H', 'I']
+let rightLetters = ['U', 'W', 'J']
+let downLetters = ['S', 'Z', 'O',]
+let leftLetters = ['N', 'D', 'M',]
 
 let allLetters = [...upLetters, ...rightLetters, ...downLetters, ...leftLetters]
 let letterArrays = [upLetters, rightLetters, downLetters, leftLetters]
